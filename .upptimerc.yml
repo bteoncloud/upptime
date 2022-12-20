@@ -1,31 +1,87 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: bteoncloud # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Assistance OnCloud
+    url: https://assistance.oncloud.fr/
+  - name: Ping OnCloud
+    url: http://ping.oncloud.network
 
+assignees: # Users to assign downtime issues (optional)
+  - gpoudrel
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.oncloud.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://oncloud.bouyguestelecom-entreprises.fr/media/logo/stores/2/BTE_OnCloud_RVB_1x.png
+  name: OnCloud Statut
+  introTitle: "Page de Statut des services OnCloud"
+  introMessage: Liste des état des services, incidents, maintenances.
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
-    - title: Status
+    - title: Statut
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: OnCloud
+      href: https://oncloud.fr
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les systèmes sont fonctionnels
+  incidentReport: "Détails de la tâche #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS messages
+  incidentTitle: Détails de l'incident $NUMBER
+  incidentDetails: Détails de l'incident
+  incidentFixed: Terminé
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert le
+  incidentClosedAt: Fermé le
+  incidentViewOnGitHub: Voir les messages et souscrire à la tâche sur GitHub
+  incidentCommentSummary: Envoyé le $DATE par $AUTHOR
+  incidentBack: ← Retour vers la liste des incidents
+  pastIncidents: Incidents terminés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS messages
+  liveStatus: Statut en temps réel
+  overallUptime: "Disponibilité globale: $UPTIME"
+  overallUptimeTitle: Disponibilité globale
+  averageResponseTime: "Temps de réponse moyen (USA): $TIMEms"
+  averageResponseTimeTitle: Temps de réponse
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: Up
+  down: Down
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement
+  navGitHub: GitHub
+  footer: Cette page est [open source]($REPO), propuls par [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Trop de requêtes
+  rateLimitExceededIntro: Vous avez dépassé le nombre maximal de requêtes autorisées en une heure. Par conséquent vous devez patienter avant d'accéder de nouveau à ce site web. Toutefois, vous pouvez ajouter un Token d'Accès personnel pour continuer à utiliser ce site.
+  rateLimitExceededWhatDoesErrorMean: Qu'est-ce que cette erreur signifie?
+  rateLimitExceededErrorMeaning: Ce site web utilise des API GitHub pour accéder en temps réel à des données à propos des statuts de nos métriques. Par défaut, GitHub autorise chaque adresse IP à faire au maximum 60 requêtes/heure, ce que vous avez dépassé.
+  rateLimitExceededErrorHowCanFix: Comment corriger ce problème?
+  rateLimitExceededErrorFix: Vous pouvez patienter 1h et la limitation appliquée à votre adresse IP sera levée. Toutefois, vous pouvez ajouter un Token d'Accès personnel, ce qui vous permet de faire 5000 requêtes/heure.
+  rateLimitExceededGeneratePAT: Apprendre à générer un Token d'Accès personnel
+  rateLimitExceededHasSet: Vous avez un token d'accès personnel défini.
+  rateLimitExceededRemoveToken: Retirer le token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copier et coller votre token
+  rateLimitExceededSaveToken: Sauvegarder le token
+  errorTitle: Une erreur s'est produite
+  errorIntro: Une erreur s'est produite en tenant de récupérer les dernières informations de statuts.
+  errorText: Vous pouvez réessayer dans un moment.
+  errorHome: Revenir à la page principale
+  pastScheduledMaintenance: Maintenances planifiées terminées
+  scheduledMaintenance: Maintenance planifiées
+  scheduledMaintenanceSummaryStarted: Démarrée à $DATE pour une durée de $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Démarrera à $DATE pour une durée de $DURATION minutes
+  startedAt: Démarré à
+  startsAt: Démarre à
+  duration: Durée
+  durationMin: $DURATION minutes
+  incidentCompleted: Terminé
+  incidentScheduled: Planifié
