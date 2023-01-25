@@ -4,7 +4,7 @@
     "url": "https://assistance.oncloud.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 622,
     "timeMonth": 620,
     "timeYear": 628,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Ping OnCloud",
