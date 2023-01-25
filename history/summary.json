@@ -4,19 +4,19 @@
     "url": "https://assistance.oncloud.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 2023,
-    "timeWeek": 1106,
-    "timeMonth": 752,
-    "timeYear": 745,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 739,
+    "timeDay": 1643,
+    "timeWeek": 1046,
+    "timeMonth": 745,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 12
     }
   },
   {
