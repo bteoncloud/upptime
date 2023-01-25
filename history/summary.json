@@ -4,7 +4,7 @@
     "url": "https://assistance.oncloud.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1106,
     "timeMonth": 752,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "Ping OnCloud",
@@ -23,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ping.oncloud.network.ico",
     "slug": "ping-on-cloud",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 530,
     "timeDay": 352,
     "timeWeek": 525,
     "timeMonth": 529,
     "timeYear": 530,
-    "dailyMinutesDown": {
-      "2023-01-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
