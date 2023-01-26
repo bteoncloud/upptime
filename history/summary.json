@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 739,
-    "timeDay": 1643,
-    "timeWeek": 1046,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 732,
+    "timeDay": 1650,
+    "timeWeek": 1022,
     "timeMonth": 745,
-    "timeYear": 739,
-    "dailyMinutesDown": {
-      "2023-01-25": 12
-    }
+    "timeYear": 732,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ping OnCloud",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 352,
-    "timeWeek": 525,
+    "time": 525,
+    "timeDay": 356,
+    "timeWeek": 495,
     "timeMonth": 529,
-    "timeYear": 530,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   }
 ]
