@@ -4,7 +4,7 @@
     "url": "https://assistance.oncloud.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 574,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2024-06-27": 0,
       "2024-03-09": 15
     }
   },
