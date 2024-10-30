@@ -25,9 +25,9 @@
     "url": "http://ping.oncloud.network",
     "icon": "https://icons.duckduckgo.com/ip3/ping.oncloud.network.ico",
     "slug": "ping-on-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -37,6 +37,7 @@
     "timeMonth": 477,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2024-10-30": 0,
       "2024-01-19": 867,
       "2024-01-18": 101,
       "2024-01-10": 23
