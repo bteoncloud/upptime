@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 584,
-    "timeDay": 518,
-    "timeWeek": 546,
+    "timeDay": 709,
+    "timeWeek": 572,
     "timeMonth": 576,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -26,21 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ping.oncloud.network.ico",
     "slug": "ping-on-cloud",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 543,
-    "timeDay": 351,
-    "timeWeek": 446,
+    "timeDay": 702,
+    "timeWeek": 489,
     "timeMonth": 535,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-10-30": 21,
       "2024-01-19": 867,
-      "2024-01-18": 101,
-      "2024-01-10": 23
+      "2024-01-18": 101
     }
   }
 ]
