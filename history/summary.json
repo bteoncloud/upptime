@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assistance.oncloud.fr.ico",
     "slug": "assistance-on-cloud",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 1371,
-    "timeWeek": 1104,
-    "timeMonth": 1090,
-    "timeYear": 909,
+    "time": 845,
+    "timeDay": 1340,
+    "timeWeek": 1114,
+    "timeMonth": 1104,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 632,
-    "timeDay": 809,
-    "timeWeek": 701,
-    "timeMonth": 723,
-    "timeYear": 663,
+    "timeDay": 774,
+    "timeWeek": 697,
+    "timeMonth": 731,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   }
 ]
